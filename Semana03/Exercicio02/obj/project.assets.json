@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\PERIODO 8\\SEMB2\\SEII-RodrigoMialichiTriboni\\Semana02\\Exercicio4\\ConsoleApp.csproj",
-      "projectName": "ConsoleApp",
-      "projectPath": "C:\\PERIODO 8\\SEMB2\\SEII-RodrigoMialichiTriboni\\Semana02\\Exercicio4\\ConsoleApp.csproj",
+      "projectUniqueName": "C:\\PERIODO 8\\SEMB2\\SEII-RodrigoMialichiTriboni\\Semana03\\Exercicio02\\Exercicio02.csproj",
+      "projectName": "Exercicio02",
+      "projectPath": "C:\\PERIODO 8\\SEMB2\\SEII-RodrigoMialichiTriboni\\Semana03\\Exercicio02\\Exercicio02.csproj",
       "packagesPath": "C:\\Users\\rodri\\.nuget\\packages\\",
-      "outputPath": "C:\\PERIODO 8\\SEMB2\\SEII-RodrigoMialichiTriboni\\Semana02\\Exercicio4\\obj\\",
+      "outputPath": "C:\\PERIODO 8\\SEMB2\\SEII-RodrigoMialichiTriboni\\Semana03\\Exercicio02\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
